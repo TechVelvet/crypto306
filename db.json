@@ -1,0 +1,46 @@
+{
+    "EccosystemPartners": [
+        {
+            "partnerImage": "https://forex306.com/assets/imgs/images/strom-media-partner.png",
+            "partnerName": "Strom",
+            "website": "https://storm.partners/"
+        },
+        {
+            "partnerImage": "https://forex306.com/assets/imgs/images/crypto-executives.png",
+            "partnerName": "Crypto Executives",
+            "website": "https://www.cryptoexecutives.io/"
+        },
+        {
+            "partnerImage": "https://forex306.com/assets/imgs/images/ecox-vc.png",
+            "partnerName": "Crypto Executives",
+            "website": "https://www.cryptoexecutives.io/"
+        }
+    ],
+    "VcLabParneres":[
+        {
+            "partnerImage": "https://forex306.com/assets/imgs/images/labs-logo.png",
+            "partnerName": "Strom",
+            "website": "https://storm.partners/"
+        },
+        {
+            "partnerImage": "https://forex306.com/assets/imgs/images/fvtura-logo.png",
+            "partnerName": "Crypto Executives",
+            "website": "https://www.cryptoexecutives.io/"
+        },
+        {
+            "partnerImage": "https://forex306.com/assets/imgs/images/labs-logo.png",
+            "partnerName": "Strom",
+            "website": "https://storm.partners/"
+        },
+        {
+            "partnerImage": "https://forex306.com/assets/imgs/images/sharding-digital-media.png",
+            "partnerName": "Crypto Executives",
+            "website": "https://www.cryptoexecutives.io/"
+        },
+        {
+            "partnerImage": "https://forex306.com/assets/imgs/images/labs-logo.png",
+            "partnerName": "Strom",
+            "website": "https://storm.partners/"
+        }
+    ]
+}
