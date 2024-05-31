@@ -1,0 +1,82 @@
+
+#Interviews .card > div{
+  background: url(../assests/media/interviewsBg.png) no-repeat center bottom;
+  background-size: cover;
+}
+.main-carousel-card {
+  margin-top: 129.06px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 26.4px;
+}
+
+.main-carousel-card span {
+  color: var(--primary-text);
+  text-shadow: 0px 0px 6.603px #000;
+  font-family: manrope;
+  font-size: 13.545px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  letter-spacing: 7.856px;
+  text-transform: uppercase;
+}
+
+.main-carousel-card p {
+  color: white;
+  font-family: Inter;
+  font-size: 48.127px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.548px;
+}
+
+.buttons-div button {
+  width: 43px;
+  height: 43px;
+  border-radius: 50%;
+  border: none;
+  background-color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttons-div {
+  position: absolute;
+  bottom: 10px;
+  display: flex;
+  gap: 30px;
+}
+
+@media screen and (max-width: 768px) {
+  .main-carousel-card {
+    margin-top: 100px;
+  }
+
+  .main-carousel-card p {
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    /* 133.333% */
+    letter-spacing: -0.512px;
+  }
+}
+@media screen and (min-width: 1440px) {
+  #Interviews .card>div {
+    background: url(../assests/media/InterviewBgXl.png) no-repeat;
+    background-position-y: 60%;
+    background-size: cover;
+  }
+}
+@media screen and (max-width: 576px) {
+  #Interviews .card>div {
+    background: url(../assests/media/interviewsBgM.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+}

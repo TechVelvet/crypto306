@@ -1,0 +1,352 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&family=Livvic:wght@100;200;300;400;500;600;700;900&family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap');
+
+@font-face {
+    font-family: 'GillroyL';
+    font-weight: 200;
+    src: url('../public/fonts/gilroy/Gilroy-Light.ttf');
+}
+
+@font-face {
+    font-family: 'GillroyR';
+    font-weight: 400;
+    src: url('../public/fonts/gilroy/Gilroy-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'GillroyM';
+    font-weight: 500;
+    src: url('../public/fonts/gilroy/Gilroy-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'GillroyS';
+    font-weight: 600;
+    src: url('../public/fonts/gilroy/Gilroy-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'GillroyB';
+    font-weight: 700;
+    src: url('../public/fonts/gilroy/Gilroy-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'GillroyEB';
+    font-weight: 900;
+    src: url('../public/fonts/gilroy/Gilroy-ExtraBold.ttf');
+}
+@font-face {
+    font-family: 'Livvic', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&family=Livvic:wght@100;200;300;400;500;600;700;900&family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap');
+}
+
+:root {
+    color-scheme: nones;
+    --b1: #fff
+}
+
+* {
+    scrollbar-width: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+::-webkit-scrollbar-button {
+    display: none;
+}
+
+body {
+    -ms-overflow-style: none;
+    font-family: 'GillroyR';
+    overflow-x: hidden;
+}
+.text-stroke{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;
+}
+.navbar{
+    background: white;
+}
+.Carousel-Main-Container{
+    max-width: 1200px;
+}
+.react-multi-carousel-list{
+    position: unset !important;
+    max-width: 1120px !important;
+    margin: auto;
+}
+.react-multi-carousel-dot-list {
+   position: inherit !important;
+   transform: translateY(25px);
+}
+.react-multi-carousel-dot button{
+    background: #E3E3E3 !important;
+    border: 1px solid #E3E3E3 !important;
+}
+.react-multi-carousel-dot--active button{
+    background: #21C3E7 !important;
+    border: 1px solid #E3E3E3 !important;
+}
+.react-multi-carousel-list{
+    align-items: center !important;
+    
+}
+.react-multiple-carousel__arrow, .react-multiple-carousel__arrow:disabled{
+    background: #21C3E7 !important;
+}
+.react-multiple-carousel__arrow--left{
+    left: 5px !important;
+}
+.react-multiple-carousel__arrow--right{
+    right: 5px !important;
+}
+.Container{
+    max-width: 1440px;
+}
+.button{
+    top: 21.16px;
+    left: 1078.52px;
+    padding:  9.47px 25.4px  7.47px;
+    border-radius: 30px;
+    gap: 8.47px;
+    text-align: center;
+}
+
+.ateendees-card::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 255.46px;
+    background: linear-gradient(180deg, #24c4e8 37.61%, #21c3e700 96.25%);
+    z-index: 20;
+}
+
+
+.card-text h3 {
+    position: relative;
+    width: fit-content;
+    left: 40%;
+    transform: translateX(-60%) rotate(-90deg);
+    transition-property: all;
+    
+    transition-duration: .5s;
+}
+.ateendees-card:hover .card-text h3 {
+    top: 0 !important;
+    left: 50%;
+    transform: translateX(-50%);
+    transform-origin: top left;
+}
+
+.ateendees-card:hover .card-text p {
+    top: 0 !important;
+    left: 50%;
+    transform: translateX(-50%);
+    transform-origin: top left;
+}
+#Previous-Sponsors .curverd-div {
+    background-color: #21C3E7;
+    position: relative;
+}
+
+#Previous-Sponsors .curverd-div:after {
+    content: "";
+    position: absolute;
+	background: url('./assests/svgs/partnersBg.svg');
+    background-size: cover;
+    background-position: top center;
+    left: 50%;
+    background-repeat: no-repeat;
+    transform: translateX(-50%);
+    width: 100%;
+    height: 200px;
+    top: 0;
+}
+
+.flip-card-inner {
+	transform-style: preserve-3d;
+}
+.flip-card-front img{
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}
+.flip-card-back {
+	transform: rotateY(180deg);
+}
+
+.flip-card:hover .flip-card-inner {
+	transform: rotateY(180deg);
+}
+
+/*  */
+.ateendees-card:nth-child(1) .card-text h3{
+    top: 34px;
+}
+.ateendees-card:nth-child(1) .card-text p{
+    top: 20px;
+}
+
+
+.ateendees-card:nth-child(2) .card-text h3{
+    top: 28px;
+}
+.ateendees-card:nth-child(2) .card-text p{
+    top: 30px;
+}
+
+.ateendees-card:nth-child(3) .card-text h3{
+    top: 7px;
+}
+.ateendees-card:nth-child(3) .card-text p{
+    top: 13px;
+}
+
+.ateendees-card:nth-child(4) .card-text h3{
+    top: 8px;
+}
+.ateendees-card:nth-child(4) .card-text p{
+    top: 10px;
+}
+
+.ateendees-card:nth-child(5) .card-text h3{
+    top: 17px;
+}
+.ateendees-card:nth-child(5) .card-text p{
+    top: -10px;
+}
+
+.ateendees-card:nth-child(6) .card-text h3{
+    top: 14px;
+}
+.ateendees-card:nth-child(6) .card-text p{
+    top: 4px;
+}
+/*  */
+
+/* modal video */
+.modal-video {
+    position: fixed;
+    top: 0;
+    backdrop-filter: brightness(23%);
+    z-index: 9999999;
+}
+.modal-video-inner{
+    width: 100vw !important;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.modal-video-movie-wrap{
+    padding: 0 !important;
+}
+.modal-video-movie-wrap iframe{
+    width: 70vw;
+    height: 100%;
+    object-fit: contain;
+    aspect-ratio: 1/1;
+}
+
+/*  */
+
+@media screen and (min-width: 1037px) {
+    .react-multi-carousel-dot-list{
+        transform: translateY(20px);
+    }
+}
+@media only screen and (min-width: 960px) and (max-width:1173px) {
+    .Carousel-Main-Container{
+        max-width: 977px;
+    }
+    .react-multi-carousel-list{
+        max-width: 897px !important;
+    }
+    .react-multiple-carousel__arrow--left{
+        left: 5px !important;
+    }
+    .react-multiple-carousel__arrow--right{
+        right: 5px !important;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+    .Carousel-Main-Container{
+        max-width: 742px;
+    }
+    .react-multi-carousel-list{
+        max-width: 672px !important;
+    }
+    .react-multiple-carousel__arrow--left{
+        left: 5px !important;
+    }
+    .react-multiple-carousel__arrow--right{
+        right: 5px !important;
+    }
+}
+@media only screen and (min-width: 567px) and (max-width: 767px){
+    .Carousel-Main-Container{
+        max-width: 580px;
+    }
+    .react-multi-carousel-list{
+        max-width: 500px !important;
+    }
+}
+@media screen and (min-width: 0px) and (max-width: 641px) {
+    .react-multiple-carousel__arrow{
+        display: none;
+    }
+    .react-multiple-carousel__arrow--right{
+
+        transform: translateX(92px);
+    }
+    .react-multiple-carousel__arrow--left{
+   
+        transform: translateX(-97px);
+    }
+    #Previous-Sponsors .curverd-div:after{
+        background-size: contain;
+    }
+    .modal-video-movie-wrap iframe{
+        width: 95vw;
+        height: fit-content !important;
+        margin-top: 30vh;
+    }
+}
+@media only screen and (max-width:475px) {
+    #footer .inquiry{
+        gap: 40px;
+        flex-direction: column !important;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .xsm{
+        padding: 0;
+    }
+}
+
+@layer components{
+    .inner-div{
+        top: -300px;
+        transition: all .4s ease-out;
+    }
+    .show-inner-div{
+        top: 64px;
+        transition: all 0.4s ease-in;
+    }
+    .cards-basics{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+    }
+}
+.active--1, .active--2, .active-0, .active-1, .active-2{
+    transition: .6s all ease-in-out;
+    transform: translateY(40px);
+}

@@ -1,0 +1,151 @@
+.react-stacked-center-carousel {
+  display: flex;
+  justify-content: center;
+  overflow: visible !important;
+  height: 0px !important;
+}
+.card-card {
+  transition: all 300ms ease;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 31.5px;
+  height: fit-content;
+  position: relative;
+
+}
+
+.card-card:hover {
+  transform: scale(1.05);
+}
+
+.react-stacked-center-carousel-slide-0 .card-card {
+  cursor: default;
+}
+
+.react-stacked-center-carousel-slide-0 .card-card:hover {
+  transform: none;
+}
+
+
+.fill {
+  width: 100%;
+  height: 100%;
+}
+
+.card-card .card-overlay {
+  user-select: none;
+  position: absolute;
+  transition: all 300ms ease;
+}
+
+
+.card-card .cover {
+  position: absolute;
+  transition: opacity 300ms ease;
+}
+
+.react-stacked-center-carousel-slide-0 .card-card .cover {
+  transition: opacity 300ms ease, z-index 0ms 300ms;
+}
+
+.react-stacked-center-carousel-slide--2 {
+  transform: translateX(-730.75px) translateY(100px) scale(1) !important;
+  opacity: .5 !important;
+}
+
+.react-stacked-center-carousel-slide-2 {
+  transform: translateX(730.75px) translateY(100px) scale(1) !important;
+  opacity: .5 !important;
+}
+
+.react-stacked-center-carousel-slide-1 {
+  transform: translateX(365px) translateY(50px) scale(1) !important;
+  opacity: .75 !important;
+}
+
+.react-stacked-center-carousel-slide--1 {
+  transform: translateX(-365px) translateY(50px) scale(1) !important;
+  opacity: .75 !important;
+}
+
+.card-card .cover.on {
+  opacity: 0.2;
+  z-index: 1;
+}
+
+.card-card .cover.off {
+  opacity: 0.8;
+  z-index: -1;
+}
+
+.discription{
+  width: 313px;
+  height: 190px;
+  position: relative;
+}
+
+.discription img {
+  width: 100%;
+  height: 100%;
+}
+.shadow-div{
+  position: absolute;
+  bottom: 0%;
+  width: 100%;
+  height: 22px;
+  border-radius: 50%;
+  box-shadow: 0px 70px 30px 0px #0808086a;
+  z-index: -2;
+}
+
+
+.stacked-carousel-responsive-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* @media screen and (max-width: 1440px) {
+  .discription{
+    width: 313px;
+    height: fit-content;
+  }
+} */
+
+@media screen and (min-width: 768px) and (max-width: 1080px) {
+  .discription {
+    gap: 10px;
+  }
+
+  .card-card .card-overlay {
+    padding: 0px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .react-stacked-center-carousel-slide--1 {
+    left: calc(50% - -50px) !important;
+  }
+
+  .react-stacked-center-carousel-slide-1 {
+    left: calc(50% - 320px) !important;
+  }
+  .discription{
+    width: 170px;
+    height: fit-content;
+  }
+  .discription img {
+    width: 100%;
+  }
+  .shadow-div{
+    box-shadow: 0px 40px 25px 0px #0808086a;
+  }
+  .react-stacked-center-carousel-slide-1 {
+    transform: translateX(415px) translateY(70px) scale(1) !important;
+  }
+  
+  .react-stacked-center-carousel-slide--1 {
+    transform: translateX(-315px) translateY(70px) scale(1) !important;
+  }
+}

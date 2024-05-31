@@ -1,0 +1,1540 @@
+{
+    "VcLabParneres": [
+        {
+            "partnerImage": "/assests/media/partners/babs-logo-sponsor.png",
+            "partnerName": "Babs",
+            "website": "https://babs.xyz/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/fvtura-logo.png",
+            "partnerName": "fvtura",
+            "website": "https://fvtura.com/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/sharding-digital-media.png",
+            "partnerName": "Sharding Capital",
+            "website": "https://sharding.capital/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/new-tribe-capital-vc2.png",
+            "partnerName": "Newtribe Capital",
+            "website": "https://www.newtribe.capital/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/helion-ventures-vc.png",
+            "partnerName": "helion ventures",
+            "website": "https://www.helion-ventures.com/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/marsary-capital-vc.png",
+            "partnerName": "MASARY CAPITAL",
+            "website": "https://masarycapital.com/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/gd-10-capital-vc.png",
+            "partnerName": "GD10 Ventures",
+            "website": "https://gd10.capital/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/breakthrough-vc.png",
+            "partnerName": "BREAKTHROUGH",
+            "website": "#"
+        },
+        {
+            "partnerImage": "/assests/media/partners/vultavo-vc.png",
+            "partnerName": "VAULTAVO",
+            "website": "https://vaultavo.com/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/reflexical-vc.png",
+            "partnerName": "REFLEXICAL",
+            "website": "https://reflexical.com/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/klumi-ventures.png",
+            "partnerName": "Klumi Ventures",
+            "website": "https://www.klumiventures.com/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/adluam-vc.png",
+            "partnerName": "Adlunam",
+            "website": "https://www.adlunam.cc"
+        },
+        {
+            "partnerImage": "/assests/media/partners/ceras-vc.png",
+            "partnerName": "Ceras Ventures",
+            "website": "https://www.cerasvc.com"
+        },
+        {
+            "partnerImage": "/assests/media/partners/eclipse-pad.png",
+            "partnerName": "Eclipse Pad",
+            "website": "https://eclipsepad.com"
+        },
+        {
+            "partnerImage": "/assests/media/partners/koinonos-vc.png",
+            "partnerName": "Koinonos Capital",
+            "website": "https://www.linkedin.com/company/koinonos-capital/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/momentum6-vc.png",
+            "partnerName": "Momentum 6",
+            "website": "https://momentum6.com"
+        },
+        {
+            "partnerImage": "/assests/media/partners/mysteria-vc.png",
+            "partnerName": "Mysteria Capital",
+            "website": "https://www.mysteriacapital.com"
+        },
+        {
+            "partnerImage": "/assests/media/partners/seedefy-vc.png",
+            "partnerName": "Seedefy",
+            "website": "https://seedefy.com"
+        }
+    ],
+    "EccosystemPartners": [
+        {
+            "partnerImage": "/assests/media/partners/strom.png",
+            "partnerName": "Strom",
+            "website": "https://storm.partners/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/crypto-exe.png",
+            "partnerName": "Crypto Executives",
+            "website": "https://cryptoexecutives.io/"
+        },
+        {
+            "partnerImage": "/assests/media/partners/ecox-vc.png",
+            "partnerName": "ecox-vc",
+            "website": "https://www.ecox.pro/"
+        }
+    ],
+    "PrevSpeakersM": [
+        {
+            "LinkedIn": "https://www.linkedin.com/in/davinci-jeremie-61a21124",
+            "speakerIcon": "/assests/media/speakers/Davinci Jeremie.png",
+            "speakerName": "Davinci Jeremie",
+            "speakerPosition": "CRYPTO EDUCATOR AND ENTREPRENEUR",
+            "speakerCompany": "Project Nexus",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/mohammed-khashogji",
+            "speakerIcon1": "/assests/media/speakers/mohammed khashogji.png",
+            "speakerName1": "Mohammed Khashogji",
+            "speakerPosition1": "Co-Founder and CEO",
+            "speakerCompany1": "Project Nexus",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/andrey-akulenko-a412a994",
+            "speakerIcon2": "/assests/media/speakers/ANDREY AKULENKO - HEAD OF SALES.png",
+            "speakerName2": "Andrey Akulenko",
+            "speakerPosition2": "Head of Sales",
+            "speakerCompany2": "Azbit"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/samuelchong22",
+            "speakerIcon": "/assests/media/speakers/Samuel Chong - Senior Regional Manager - Coinstore_.png",
+            "speakerName": "Samuel Chong",
+            "speakerPosition": "Regional Manager",
+            "speakerCompany": "Coinstore",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/andryunin",
+            "speakerIcon1": "/assests/media/speakers/Alex Andryunin - CEO - Gotbit Hedge Fund.png",
+            "speakerName1": "Alex Andryunin",
+            "speakerPosition1": "CEO",
+            "speakerCompany1": "Gotbit Hedge Fund",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/shaileshkunnath",
+            "speakerIcon2": "/assests/media/speakers/shailesh kunnath.png",
+            "speakerName2": "Shailesh Kunnath",
+            "speakerPosition2": "Co-Founder & CTO",
+            "speakerCompany2": "Masary Capital"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/mahmoud-farouk-9b515451",
+            "speakerIcon": "/assests/media/speakers/Mahmoud Farouk.png",
+            "speakerName": "Mahmoud Farouk",
+            "speakerPosition": "CEO",
+            "speakerCompany": "TinyTrader",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/nitesh-mishra-27778318b",
+            "speakerIcon1": "/assests/media/speakers/Nitesh_Mishra_-_CO-FOUNDER_-__CHAIDEX-removebg-preview 1.png",
+            "speakerName1": "Nitesh Mishra",
+            "speakerPosition1": "Co-Founder",
+            "speakerCompany1": "ChaiDex",
+            
+            "LinkedIn2": "https://ae.linkedin.com/",
+            "speakerIcon2": "/assests/media/speakers/Lai Yen Ting Founder, CEO _ Chief Architect DeFITs Capital, TONLEND.png",
+            "speakerName2": "Lai Yen Ting",
+            "speakerPosition2": "Founder, CEO & Chief Architect",
+            "speakerCompany2": "DeFITs Capital, TONLEND"
+        },
+        {
+            "LinkedIn": "https://ae.linkedin.com/",
+            "speakerIcon": "/assests/media/speakers/Sergo - BD - CLS.png",
+            "speakerName": "Sergo",
+            "speakerPosition": "BD",
+            "speakerCompany": "CLS",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/bharat-p-ramnani-6b4922183",
+            "speakerIcon1": "/assests/media/speakers/BHARAT P.png",
+            "speakerName1": "Bharat P. Ramnani",
+            "speakerPosition1": "CEO",
+            "speakerCompany1": "Startbiz Global",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/rudyshoushany",
+            "speakerIcon2": "/assests/media/speakers/RUDY SHOUSHANY -_CEO -_DXTALKS.png",
+            "speakerName2": "Rudy Shoushany",
+            "speakerPosition2": "Founder & CEO",
+            "speakerCompany2": "DXTalks"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/shantnu-saxena",
+            "speakerIcon": "/assests/media/speakers/SHANTNOO SAXSENA_ - FOUNDER _ CEO_- ENCRYTPUS.png",
+            "speakerName": "Shantnoo Saxsena",
+            "speakerPosition": "Founder & CEO",
+            "speakerCompany": "Encryptus",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/davidsalad",
+            "speakerIcon1": "/assests/media/speakers/DAVID LOLAEV -_FOUNDER -_SAL_AD LABS.png",
+            "speakerName1": "David Lolaev",
+            "speakerPosition1": "Founder",
+            "speakerCompany1": "Sal'Ad Labs",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/lilly-douse-aa0a10b8",
+            "speakerIcon2": "/assests/media/speakers/Lilly Douse.png",
+            "speakerName2": "Lilly Douse",
+            "speakerPosition2": "",
+            "speakerCompany2": ""
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/afzal-s1991",
+            "speakerIcon": "/assests/media/speakers/AFZAL SUBHANI_- CHIEF OPERATING OFFICER -_BLOCKSGENIE TECHNOLOGIES.png",
+            "speakerName": "Afzal Subhani",
+            "speakerPosition": "Chief Operating Officer",
+            "speakerCompany": "BlocksGenie Technologies LLC",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/alice-tsai-art",
+            "speakerIcon1": "/assests/media/speakers/Alice Tsai - Venture Partner Assembly Partners.png",
+            "speakerName1": "Alice Tsai",
+            "speakerPosition1": "Co - Founder of Ta Zhi DAO",
+            "speakerCompany1": "Venture Partner & Assembly Partners",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/nastya-adamova",
+            "speakerIcon2": "/assests/media/speakers/NASTYA ADAMOVA. -_CO FOUNDER _ COO_ - BABS LABS.png",
+            "speakerName2": "Nastya Adamova",
+            "speakerPosition2": "Co-Founder and COO",
+            "speakerCompany2": "Babs Labs"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/ankitsarwahi",
+            "speakerIcon": "/assests/media/speakers/ankit sarwahi.png",
+            "speakerName": "Ankit Sarwahi",
+            "speakerPosition": "Partner",
+            "speakerCompany": "MEVP",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/giannandrea-giammanco",
+            "speakerIcon1": "/assests/media/speakers/Giannandrea Giammanco.png",
+            "speakerName1": "Giannandrea Giammanco",
+            "speakerPosition1": "CEO",
+            "speakerCompany1": "Fvtura",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/dilnoza-adkham-8b373b150",
+            "speakerIcon2": "/assests/media/speakers/Dilnoza Adkham - BD and Listing Manager - LBank.png",
+            "speakerName2": "Dilnoza Adkham",
+            "speakerPosition2": "Business Development",
+            "speakerCompany2": "LBank"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/vaibhavali",
+            "speakerIcon": "/assests/media/speakers/Vaibhav Ali - Head of Community _ Growth - Web3 Travels.png",
+            "speakerName": "Vaibhav Ali",
+            "speakerPosition": "HEAD OF GROWTH",
+            "speakerCompany": "WEB3 TRAVELS",
+            
+            "LinkedIn1": "https://ae.linkedin.com/",
+            "speakerIcon1": "/assests/media/speakers/Reha Sehgal - Business Development Manager - SAB FAST Corporate Services!.png",
+            "speakerName1": "Reha Sehgal",
+            "speakerPosition1": "Business Developer",
+            "speakerCompany1": "SAB Fast Corporate Services",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/oliver-von-wolff-63146639",
+            "speakerIcon2": "/assests/media/speakers/oliver von wolff.png",
+            "speakerName2": "Oliver Von Wolff",
+            "speakerPosition2": "Co-founder and CEO",
+            "speakerCompany2": "Helion Ventures"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/belindazhou1",
+            "speakerIcon": "/assests/media/speakers/belinda Zhou.png",
+            "speakerName": "Belinda Zhou",
+            "speakerPosition": "Founding Partner",
+            "speakerCompany": "Sharding Capital",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/jamie-elkaleh-076758265",
+            "speakerIcon1": "/assests/media/speakers/Crypto Jamie - Head Of Relationships - Bitget.png",
+            "speakerName1": "Crypto Jamie",
+            "speakerPosition1": "Head Of Relationships",
+            "speakerCompany1": "Bitget",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/rahul-warrier-a59549137",
+            "speakerIcon2": "/assests/media/speakers/Rahul Ashok - Affiliate Marketer _ Web3 Investor _ Keynote speaker.png",
+            "speakerName2": "Rahul Ashok Warrier",
+            "speakerPosition2": "CMO",
+            "speakerCompany2": "SpeakLab"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/nirav-chauhan-1a940937",
+            "speakerIcon": "/assests/media/speakers/Nirav.png",
+            "speakerName": "Nirav Chauhan",
+            "speakerPosition": "Head - Global Business",
+            "speakerCompany": "Yudiz Solutions Limited",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/tim-b-paiverse",
+            "speakerIcon1": "/assests/media/speakers/Tim Bhatnagar - Co-founder - Paiverse.png",
+            "speakerName1": "Tim Bhatgnagar",
+            "speakerPosition1": "CO-FOUNDER",
+            "speakerCompany1": "PAIVERSE",
+            
+            "LinkedIn2": "https://ae.linkedin.com/",
+            "speakerIcon2": "/assests/media/speakers/yuan yuan.png",
+            "speakerName2": "Yuanyuan",
+            "speakerPosition2": "Marketing VP",
+            "speakerCompany2": "Bitmart"
+        },
+        {
+            "LinkedIn": "https://ae.linkedin.com/",
+            "speakerIcon": "/assests/media/speakers/MUSTAFA K. CELIC -_ADVISOR -_ELVISH MAGIC.png",
+            "speakerName": "Mustafa K. CELIK",
+            "speakerPosition": "Advisor",
+            "speakerCompany": "Elvish Magic",
+            
+            "LinkedIn1": "https://ae.linkedin.com/",
+            "speakerIcon1": "/assests/media/speakers/kuku.png",
+            "speakerName1": "KUKU",
+            "speakerPosition1": "AMBASSADOR",
+            "speakerCompany1": "IMOV",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/sofiachikara",
+            "speakerIcon2": "/assests/media/speakers/sofia chhikara.png",
+            "speakerName2": "SOFIA CHHIKARA",
+            "speakerPosition2": "VENTURE INVESTORS",
+            "speakerCompany2": "4WRD VENTURES"
+        },
+        {
+            "LinkedIn": "https://ae.linkedin.com/",
+            "speakerIcon": "/assests/media/speakers/Moe Farmanesh - COO - ABX.png",
+            "speakerName": "Moe Farmanesh",
+            "speakerPosition": "COO",
+            "speakerCompany": "ABX",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/khushi-thakur-31503a228",
+            "speakerIcon1": "/assests/media/speakers/Khushi thakur - Founder - Novuszilla.png",
+            "speakerName1": "Khushi Thakur",
+            "speakerPosition1": "Founder",
+            "speakerCompany1": "Novuszilla",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/ijunaidgulzar",
+            "speakerIcon2": "/assests/media/speakers/Junaid Gulzar - Co-founder and CTO - Windfall.png",
+            "speakerName2": "Junaid Gulzar",
+            "speakerPosition2": "Co-founder and CTO",
+            "speakerCompany2": "Windfall"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/adel-bhurtun",
+            "speakerIcon": "/assests/media/speakers/Adel Bhurtun CEO _ Founder Traders Brawl.png",
+            "speakerName": "Adel Bhurtun",
+            "speakerPosition": "CEO & Founder",
+            "speakerCompany": "Traders Brawl",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/sheikh-muhammad-noman-follow-only-a6819a47",
+            "speakerIcon1": "/assests/media/speakers/Sheikh Muhammad NOMAN - Co Founder _ Business Development Partner - Mortgage Hub.png",
+            "speakerName1": "Sheikh Muhammad NOMAN",
+            "speakerPosition1": "Co Founder",
+            "speakerCompany1": "Mortgage Hub",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/sarthak-bakshi-3889a5137",
+            "speakerIcon2": "/assests/media/speakers/Sarthak Bakshi - Dimo, XDSea NFT Marketplace, Dimo Studio, RoRo Wallet - CTO _ Co-Founder.png",
+            "speakerName2": "Sarthak Bakshi",
+            "speakerPosition2": "CTO & Co-Founder",
+            "speakerCompany2": "Dimo Finance"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/burmakina",
+            "speakerIcon": "/assests/media/speakers/tatiana burmakina.png",
+            "speakerName": "Tatiana Burmakina",
+            "speakerPosition": "Regional Manager",
+            "speakerCompany": "Lovely Swap",
+            
+            "LinkedIn1": "https://ae.linkedin.com/",
+            "speakerIcon1": "/assests/media/speakers/Robert_Wojciechowski_-__CEO_-_OAAM-removebg-preview 1.png",
+            "speakerName1": "Robert Wohowski",
+            "speakerPosition1": "CEO",
+            "speakerCompany1": "OAAM Consulting Ltd",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/agresh",
+            "speakerIcon2": "/assests/media/speakers/AGRESH SINGH - BD _ PARTNERSHIP MANAGER - MENA REGION - Coinstore.png",
+            "speakerName2": "Agresh Singh",
+            "speakerPosition2": "Head of Partnership",
+            "speakerCompany2": "Coinstore"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/monika-modi-47704445",
+            "speakerIcon": "/assests/media/speakers/monika modi.png",
+            "speakerName": "Monika Modi",
+            "speakerPosition": "Senior Investment Associate",
+            "speakerCompany": "NewTribe Capital",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/ajeetkhurana",
+            "speakerIcon1": "/assests/media/speakers/Ajeet Khurana.png",
+            "speakerName1": "Ajeet Khurana",
+            "speakerPosition1": "Founder",
+            "speakerCompany1": "Reflexical",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/rsoden",
+            "speakerIcon2": "/assests/media/speakers/Robert Co-Founder _ Corporate Development Officer Vaultavo.png",
+            "speakerName2": "Robert Soden",
+            "speakerPosition2": "Co-Founder",
+            "speakerCompany2": "Vaultavo"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/manal-rifki",
+            "speakerIcon": "/assests/media/speakers/Manal Rifki Partner Klumi Ventures.png",
+            "speakerName": "Manal Rifki",
+            "speakerPosition": "Investment Advisor",
+            "speakerCompany": "Seedefy",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/sebastiao",
+            "speakerIcon1": "/assests/media/speakers/Jorge Sebastiao - Co-Founder - EcoX.png",
+            "speakerName1": "Jorge Sebastiao",
+            "speakerPosition1": "Co-Founder",
+            "speakerCompany1": "EcoX",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/deeban-ratneswaran",
+            "speakerIcon2": "/assests/media/speakers/Dr Deeban Ratneswaran - Founder - GD10 Capital.png",
+            "speakerName2": "Dr Deeban Ratneswaran",
+            "speakerPosition2": "Founder",
+            "speakerCompany2": "GD10 Capital"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/sandratusin",
+            "speakerIcon": "/assests/media/speakers/Sandra Tusin - General Partner - Breakthrough Venture Capital.png",
+            "speakerName": "Sandra Tusin",
+            "speakerPosition": "General Partner",
+            "speakerCompany": "Breakthrough Venture Capital",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/thejasonfernandes",
+            "speakerIcon1": "/assests/media/speakers/Jason Fernandes - Co-founder Adlunam - Texas VC Firm.png",
+            "speakerName1": "Jason Fernandes",
+            "speakerPosition1": "Co-founder",
+            "speakerCompany1": "AdLunam Inc",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/kryptogranny",
+            "speakerIcon2": "/assests/media/speakers/Anita Kalergis - Krypto Granny, PR _ Communications - Manager Xprizo.png",
+            "speakerName2": "Anita Kalergis",
+            "speakerPosition2": "PR & Communications Manager",
+            "speakerCompany2": "Xprizo"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/cristina-najera",
+            "speakerIcon": "/assests/media/speakers/Cristina Najera - Founder - Najera Ventures.png",
+            "speakerName": "Cristina Najera",
+            "speakerPosition": "Founder",
+            "speakerCompany": "Najera Ventures",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/priya-ratnam-5bb614145",
+            "speakerIcon1": "/assests/media/speakers/Priya Ratnam - Founder _ CEO - Avisa Games Guild.png",
+            "speakerName1": "Priya Ratnam",
+            "speakerPosition1": "Founder & CEO",
+            "speakerCompany1": "Avisa Games Guild",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/nadjabester",
+            "speakerIcon2": "/assests/media/speakers/Nadja_Bester_-_Co_Founder_-_Adlunam_INC-removebg-preview 1.png",
+            "speakerName2": "Nadja Bester",
+            "speakerPosition2": "Co-Founder",
+            "speakerCompany2": "AdLunam"
+        },
+        {
+            "LinkedIn": "https://ae.linkedin.com/in/juliet-su-%E8%8B%8F%E4%B8%BD-438b3725",
+            "speakerIcon": "/assests/media/speakers/Juliet Su - Fund Partner - New Tribe Capital.png",
+            "speakerName": "Juliet Su",
+            "speakerPosition": "Fund Partner",
+            "speakerCompany": "New Tribe Capital",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/veronicaandrino",
+            "speakerIcon1": "/assests/media/speakers/Veronica Andrino - Managing Director - Ammara Zaya Capital.png",
+            "speakerName1": "Veronica Andrino",
+            "speakerPosition1": "Managing Director",
+            "speakerCompany1": "Ammara Zaya Capital",
+            
+            "LinkedIn2": "https://www.linkedin.com/in/carlrunefelt",
+            "speakerIcon2": "/assests/media/speakers/Carl Runefelt.png",
+            "speakerName2": "Carl Runefelt",
+            "speakerPosition2": "Founder",
+            "speakerCompany2": "Moon Group"
+        },
+        {
+            "LinkedIn": "",
+            "speakerIcon": "/assests/media/speakers/",
+            "speakerName": "KOUMBOU F. Jeffe",
+            "speakerPosition": "CEO",
+            "speakerCompany": "Vitalex.io"
+        }
+    ],
+    "PrevSpeakers": [
+        {
+            "LinkedIn": "https://www.linkedin.com/in/davinci-jeremie-61a21124",
+            "speakerIcon": "/assests/media/speakers/Davinci Jeremie.png",
+            "speakerName": "Davinci Jeremie",
+            "speakerPosition": "CRYPTO EDUCATOR ",
+            "speakerCompany": "ENTREPRENEUR",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/mohammed-khashogji",
+            "speakerIcon1": "/assests/media/speakers/mohammed khashogji.png",
+            "speakerName1": "Mohammed Khashogji",
+            "speakerPosition1": "Co-Founder and CEO",
+            "speakerCompany1": "Project Nexus"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/rudyshoushany",
+            "speakerIcon": "/assests/media/speakers/RUDY SHOUSHANY -_CEO -_DXTALKS.png",
+            "speakerName": "Rudy Shoushany",
+            "speakerPosition": "Founder & CEO",
+            "speakerCompany": "DXTalks",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/samuelchong22",
+            "speakerIcon1": "/assests/media/speakers/Samuel Chong - Senior Regional Manager - Coinstore_.png",
+            "speakerName1": "Samuel Chong",
+            "speakerPosition1": "Regional Manager",
+            "speakerCompany1": "Coinstore"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/andryunin",
+            "speakerIcon": "/assests/media/speakers/Alex Andryunin - CEO - Gotbit Hedge Fund.png",
+            "speakerName": "Alex Andryunin",
+            "speakerPosition": "CEO",
+            "speakerCompany": "Gotbit Hedge Fund",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/andrey-akulenko-a412a994",
+            "speakerIcon1": "/assests/media/speakers/ANDREY AKULENKO - HEAD OF SALES.png",
+            "speakerName1": "Andrey Akulenko",
+            "speakerPosition1": "Head of Sales",
+            "speakerCompany1": "Azbit"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/mahmoud-farouk-9b515451",
+            "speakerIcon": "/assests/media/speakers/Mahmoud Farouk.png",
+            "speakerName": "Mahmoud Farouk",
+            "speakerPosition": "CEO",
+            "speakerCompany": "TinyTrader",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/nitesh-mishra-27778318b",
+            "speakerIcon1": "/assests/media/speakers/Nitesh_Mishra_-_CO-FOUNDER_-__CHAIDEX-removebg-preview 1.png",
+            "speakerName1": "Nitesh Mishra",
+            "speakerPosition1": "Co-Founder",
+            "speakerCompany1": "ChaiDex"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/",
+            "speakerIcon": "/assests/media/speakers/jason Singh.png",
+            "speakerName": "Jason Singh",
+            "speakerPosition": "CEO",
+            "speakerCompany": "Paiverse",
+            
+            "LinkedIn1": "https://www.linkedin.com/",
+            "speakerIcon1": "/assests/media/speakers/Sergo - BD - CLS.png",
+            "speakerName1": "Sergo",
+            "speakerPosition1": "BD",
+            "speakerCompany1": "CLS"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/bharat-p-ramnani-6b4922183",
+            "speakerIcon": "/assests/media/speakers/BHARAT P.png",
+            "speakerName": "Bharat P. Ramnani",
+            "speakerPosition": "CEO",
+            "speakerCompany": "Startbiz Global",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/shantnu-saxena",
+            "speakerIcon1": "/assests/media/speakers/SHANTNOO SAXSENA_ - FOUNDER _ CEO_- ENCRYTPUS.png",
+            "speakerName1": "Shantnoo Saxsena",
+            "speakerPosition1": "Founder & CEO",
+            "speakerCompany1": "Encryptus"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/davidsalad",
+            "speakerIcon": "/assests/media/speakers/DAVID LOLAEV -_FOUNDER -_SAL_AD LABS.png",
+            "speakerName": "David Lolaev",
+            "speakerPosition": "Founder",
+            "speakerCompany": "Sal'Ad Labs",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/afzal-s1991",
+            "speakerIcon1": "/assests/media/speakers/AFZAL SUBHANI_- CHIEF OPERATING OFFICER -_BLOCKSGENIE TECHNOLOGIES.png",
+            "speakerName1": "Afzal Subhani",
+            "speakerPosition1": "Chief Operating Officer",
+            "speakerCompany1": "BlocksGenie Technologies LLC"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/nastya-adamova",
+            "speakerIcon": "/assests/media/speakers/NASTYA ADAMOVA. -_CO FOUNDER _ COO_ - BABS LABS.png",
+            "speakerName": "Nastya Adamova",
+            "speakerPosition": "Co-Founder and COO",
+            "speakerCompany": "Babs Labs",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/ankitsarwahi",
+            "speakerIcon1": "/assests/media/speakers/ankit sarwahi.png",
+            "speakerName1": "Ankit Sarwahi",
+            "speakerPosition1": "Partner",
+            "speakerCompany1": "MEVP"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/giannandrea-giammanco",
+            "speakerIcon": "/assests/media/speakers/Giannandrea Giammanco.png",
+            "speakerName": "Giannandrea Giammanco",
+            "speakerPosition": "CEO",
+            "speakerCompany": "Fvtura",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/dilnoza-adkham-8b373b150",
+            "speakerIcon1": "/assests/media/speakers/Dilnoza Adkham - BD and Listing Manager - LBank.png",
+            "speakerName1": "Dilnoza Adkham",
+            "speakerPosition1": "Business Development",
+            "speakerCompany1": "LBank"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/vaibhavali",
+            "speakerIcon": "/assests/media/speakers/Vaibhav Ali - Head of Community _ Growth - Web3 Travels.png",
+            "speakerName": "Vaibhav Ali",
+            "speakerPosition": "HEAD OF GROWTH",
+            "speakerCompany": "WEB3 TRAVELS",
+            
+            "LinkedIn1": "https://www.linkedin.com/",
+            "speakerIcon1": "/assests/media/speakers/Reha Sehgal - Business Development Manager - SAB FAST Corporate Services!.png",
+            "speakerName1": "Reha Sehgal",
+            "speakerPosition1": "Business Development manager",
+            "speakerCompany1": "SAB Fast Corporate Services"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/oliver-von-wolff-63146639",
+            "speakerIcon": "/assests/media/speakers/oliver von wolff.png",
+            "speakerName": "Oliver Von Wolff",
+            "speakerPosition": "Co-founder and CEO",
+            "speakerCompany": "Helion Ventures",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/belindazhou1",
+            "speakerIcon1": "/assests/media/speakers/belinda Zhou.png",
+            "speakerName1": "Belinda Zhou",
+            "speakerPosition1": "Founding Partner",
+            "speakerCompany1": "Sharding Capital"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/jamie-elkaleh-076758265",
+            "speakerIcon": "/assests/media/speakers/Crypto Jamie - Head Of Relationships - Bitget.png",
+            "speakerName": "Crypto Jamie",
+            "speakerPosition": "Head Of Relationships",
+            "speakerCompany": "Bitget",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/rahul-warrier-a59549137",
+            "speakerIcon1": "/assests/media/speakers/Rahul Ashok - Affiliate Marketer _ Web3 Investor _ Keynote speaker.png",
+            "speakerName1": "Rahul Ashok Warrier",
+            "speakerPosition1": "CMO",
+            "speakerCompany1": "SpeakLab"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/nirav-chauhan-1a940937",
+            "speakerIcon": "/assests/media/speakers/Nirav.png",
+            "speakerName": "Nirav Chauhan",
+            "speakerPosition": "Head - Global Business",
+            "speakerCompany": "Yudiz Solutions Limited",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/tim-b-paiverse",
+            "speakerIcon1": "/assests/media/speakers/Tim Bhatnagar - Co-founder - Paiverse.png",
+            "speakerName1": "Tim Bhatgnagar",
+            "speakerPosition1": "CO-FOUNDER",
+            "speakerCompany1": "PAIVERSE"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/",
+            "speakerIcon": "/assests/media/speakers/yuan yuan.png",
+            "speakerName": "Yuanyuan",
+            "speakerPosition": "Marketing VP",
+            "speakerCompany": "Bitmart",
+            
+            "LinkedIn1": "https://www.linkedin.com/",
+            "speakerIcon1": "/assests/media/speakers/MUSTAFA K. CELIC -_ADVISOR -_ELVISH MAGIC.png",
+            "speakerName1": "Mustafa K. CELIK",
+            "speakerPosition1": "Advisor",
+            "speakerCompany1": "Elvish Magic"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/",
+            "speakerIcon": "/assests/media/speakers/kuku.png",
+            "speakerName": "KUKU",
+            "speakerPosition": "AMBASSADOR",
+            "speakerCompany": "IMOV",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/sofiachikara",
+            "speakerIcon1": "/assests/media/speakers/sofia chhikara.png",
+            "speakerName1": "SOFIA CHHIKARA",
+            "speakerPosition1": "VENTURE INVESTORS",
+            "speakerCompany1": "4WRD VENTURES"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/",
+            "speakerIcon": "/assests/media/speakers/Moe Farmanesh - COO - ABX.png",
+            "speakerName": "Moe Farmanesh",
+            "speakerPosition": "COO",
+            "speakerCompany": "ABX",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/khushi-thakur-31503a228",
+            "speakerIcon1": "/assests/media/speakers/Khushi thakur - Founder - Novuszilla.png",
+            "speakerName1": "Khushi Thakur",
+            "speakerPosition1": "Founder",
+            "speakerCompany1": "Novuszilla"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/ijunaidgulzar",
+            "speakerIcon": "/assests/media/speakers/Junaid Gulzar - Co-founder and CTO - Windfall.png",
+            "speakerName": "Junaid Gulzar",
+            "speakerPosition": "Co-founder and CTO",
+            "speakerCompany": "Windfall",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/adel-bhurtun",
+            "speakerIcon1": "/assests/media/speakers/Adel Bhurtun CEO _ Founder Traders Brawl.png",
+            "speakerName1": "Adel Bhurtun",
+            "speakerPosition1": "CEO & Founder",
+            "speakerCompany1": "Traders Brawl"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/sheikh-muhammad-noman-follow-only-a6819a47",
+            "speakerIcon": "/assests/media/speakers/Sheikh Muhammad NOMAN - Co Founder _ Business Development Partner - Mortgage Hub.png",
+            "speakerName": "Sheikh Muhammad NOMAN",
+            "speakerPosition": "Co Founder",
+            "speakerCompany": "Mortgage Hub",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/sarthak-bakshi-3889a5137",
+            "speakerIcon1": "/assests/media/speakers/Sarthak Bakshi - Dimo, XDSea NFT Marketplace, Dimo Studio, RoRo Wallet - CTO _ Co-Founder.png",
+            "speakerName1": "Sarthak Bakshi",
+            "speakerPosition1": "CTO & Co-Founder",
+            "speakerCompany1": "Dimo Finance"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/burmakina",
+            "speakerIcon": "/assests/media/speakers/tatiana burmakina.png",
+            "speakerName": "Tatiana Burmakina",
+            "speakerPosition": "Regional Manager",
+            "speakerCompany": "Lovely Swap",
+            
+            "LinkedIn1": "https://www.linkedin.com/",
+            "speakerIcon1": "/assests/media/speakers/Robert_Wojciechowski_-__CEO_-_OAAM-removebg-preview 1.png",
+            "speakerName1": "Robert Wohowski",
+            "speakerPosition1": "CEO",
+            "speakerCompany1": "OAAM Consulting Ltd"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/agresh",
+            "speakerIcon": "/assests/media/speakers/AGRESH SINGH - BD _ PARTNERSHIP MANAGER - MENA REGION - Coinstore.png",
+            "speakerName": "Agresh Singh",
+            "speakerPosition": "Head of Partnership",
+            "speakerCompany": "Coinstore",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/monika-modi-47704445",
+            "speakerIcon1": "/assests/media/speakers/monika modi.png",
+            "speakerName1": "Monika Modi",
+            "speakerPosition1": "Senior Investment Associate",
+            "speakerCompany1": "NewTribe Capital"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/ajeetkhurana",
+            "speakerIcon": "/assests/media/speakers/Ajeet Khurana.png",
+            "speakerName": "Ajeet Khurana",
+            "speakerPosition": "Founder",
+            "speakerCompany": "Reflexical",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/rsoden",
+            "speakerIcon1": "/assests/media/speakers/Robert Co-Founder _ Corporate Development Officer Vaultavo.png",
+            "speakerName1": "Robert Soden",
+            "speakerPosition1": "Co-Founder",
+            "speakerCompany1": "Vaultavo"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/manal-rifki",
+            "speakerIcon": "/assests/media/speakers/Manal Rifki Partner Klumi Ventures.png",
+            "speakerName": "Manal Rifki",
+            "speakerPosition": "Investment Advisor",
+            "speakerCompany": "Seedefy",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/sebastiao",
+            "speakerIcon1": "/assests/media/speakers/Jorge Sebastiao - Co-Founder - EcoX.png",
+            "speakerName1": "Jorge Sebastiao",
+            "speakerPosition1": "Co-Founder",
+            "speakerCompany1": "EcoX"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/deeban-ratneswaran",
+            "speakerIcon": "/assests/media/speakers/Dr Deeban Ratneswaran - Founder - GD10 Capital.png",
+            "speakerName": "Dr Deeban Ratneswaran",
+            "speakerPosition": "Founder",
+            "speakerCompany": "GD10 Capital",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/sandratusin",
+            "speakerIcon1": "/assests/media/speakers/Sandra Tusin - General Partner - Breakthrough Venture Capital.png",
+            "speakerName1": "Sandra Tusin",
+            "speakerPosition1": "General Partner",
+            "speakerCompany1": "Breakthrough Venture Capital"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/thejasonfernandes",
+            "speakerIcon": "/assests/media/speakers/Jason Fernandes - Co-founder Adlunam - Texas VC Firm.png",
+            "speakerName": "Jason Fernandes",
+            "speakerPosition": "Co-founder",
+            "speakerCompany": "AdLunam Inc",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/kryptogranny",
+            "speakerIcon1": "/assests/media/speakers/Anita Kalergis - Krypto Granny, PR _ Communications - Manager Xprizo.png",
+            "speakerName1": "Anita Kalergis",
+            "speakerPosition1": "PR & Communications Manager",
+            "speakerCompany1": " Xprizo"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/cristina-najera",
+            "speakerIcon": "/assests/media/speakers/Cristina Najera - Founder - Najera Ventures.png",
+            "speakerName": "Cristina Najera",
+            "speakerPosition": "Founder",
+            "speakerCompany": "Najera Ventures",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/priya-ratnam-5bb614145",
+            "speakerIcon1": "/assests/media/speakers/Priya Ratnam - Founder _ CEO - Avisa Games Guild.png",
+            "speakerName1": "Priya Ratnam",
+            "speakerPosition1": "Founder & CEO",
+            "speakerCompany1": "Avisa Games Guild"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/nadjabester",
+            "speakerIcon": "/assests/media/speakers/Nadja_Bester_-_Co_Founder_-_Adlunam_INC-removebg-preview 1.png",
+            "speakerName": "Nadja Bester",
+            "speakerPosition": "Co-Founder",
+            "speakerCompany": "AdLunam",
+            
+            "LinkedIn1": "https://ae.linkedin.com/in/juliet-su-%E8%8B%8F%E4%B8%BD-438b3725",
+            "speakerIcon1": "/assests/media/speakers/Juliet Su - Fund Partner - New Tribe Capital.png",
+            "speakerName1": "Juliet Su",
+            "speakerPosition1": "Fund Partner",
+            "speakerCompany1": "New Tribe Capital"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/veronicaandrino",
+            "speakerIcon": "/assests/media/speakers/Veronica Andrino - Managing Director - Ammara Zaya Capital.png",
+            "speakerName": "Veronica Andrino",
+            "speakerPosition": "Managing Director",
+            "speakerCompany": "Ammara Zaya Capital",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/carlrunefelt",
+            "speakerIcon1": "/assests/media/speakers/Carl Runefelt.png",
+            "speakerName1": "Carl Runefelt",
+            "speakerPosition1": "Founder",
+            "speakerCompany1": "Moon Group"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/in/lilly-douse-aa0a10b8",
+            "speakerIcon": "/assests/media/speakers/Lilly Douse.png",
+            "speakerName": "Lilly Douse",
+            "speakerPosition": "Influencer",
+            "speakerCompany": "Entrepreneur",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/shaileshkunnath",
+            "speakerIcon1": "/assests/media/speakers/shailesh kunnath.png",
+            "speakerName1": "Shailesh Kunnath",
+            "speakerPosition1": "Co-Founder & CTO",
+            "speakerCompany1": "Masary Capital"
+        },
+        {
+            "LinkedIn": "https://www.linkedin.com/",
+            "speakerIcon": "/assests/media/speakers/Lai Yen Ting Founder, CEO _ Chief Architect DeFITs Capital, TONLEND.png",
+            "speakerName": "Lai Yen Ting",
+            "speakerPosition": "Founder, CEO & Chief Architect",
+            "speakerCompany": "DeFITs Capital, TONLEND",
+            
+            "LinkedIn1": "https://www.linkedin.com/in/alice-tsai-art",
+            "speakerIcon1": "/assests/media/speakers/Alice Tsai - Venture Partner Assembly Partners.png",
+            "speakerName1": "Alice Tsai",
+            "speakerPosition1": "Co - Founder of Ta Zhi DAO",
+            "speakerCompany1": "Venture Partner & Assembly Partners"
+        }
+    ],
+    "TitaniumSponsor": [
+        {
+            "partnerImage": "/assests/media/sponsors/fastex-titanium.png",
+            "partnerName": "Fastex",
+            "website": "https://fastex.com"
+        }
+    ],
+    "DiamondSponsor": [
+        {
+            "partnerImage": "/assests/media/sponsors/babydoge.png",
+            "partnerName": "BabyDoge",
+            "website": "https://babydoge.com"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/CLS_logo_blue.png",
+            "partnerName": "CLS",
+            "website": "https://cls.global/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/gotbit-logo.png",
+            "partnerName": "Gotbit",
+            "website": "https://gotbit.io/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/lbank-logo.png",
+            "partnerName": "LBANK",
+            "website": "https://www.lbank.info/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/ku-coin-logo.png",
+            "partnerName": "KCC",
+            "website": "http://kcc.io/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/bitmart-sponsor.png",
+            "partnerName": "Bitmart",
+            "website": "https://www.bitmart.com/"
+        }
+    ],
+    "PlatinumSponsor": [
+        {
+            "partnerImage": "/assests/media/sponsors/coinstore.png",
+            "partnerName": "Coinstore",
+            "website": "https://coinstore.com"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/encryptus-platinum.png",
+            "partnerName": "Encryptus",
+            "website": "https://encryptus.io/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/mona-proof-sponsor.png",
+            "partnerName": "Monaproof",
+            "website": "https://monaproof.com"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/duda-labs-newlogo.png",
+            "partnerName": "DUDALAB",
+            "website": "http://dudalab.com/"
+        }
+    ],
+    "GoldSponsor": [
+        {
+            "partnerImage": "/assests/media/sponsors/azbit-diamond-sponsor.png",
+            "partnerName": "Azbit",
+            "website": "https://azbit.com/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/lovely-swap.png",
+            "partnerName": "Lovely Swap",
+            "website": "https://lovelyswap.com/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/raca-logo.png",
+            "partnerName": "RACA",
+            "website": "https://www.raca3.com/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/salad-logo.png",
+            "partnerName": "Sal’Ad Labs",
+            "website": "https://sales-and-ads.com/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/start-any-business.png",
+            "partnerName": "SAB Fast Corporate Services",
+            "website": "https://www.startanybusiness.ae/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/the-elvish-magic.png",
+            "partnerName": "ElvishMagic",
+            "website": "http://elvishmagic.com/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/muratilogo-gold.png",
+            "partnerName": "MuratiAI",
+            "website": "https://muratiai.com/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/imovlogo.png",
+            "partnerName": "IMOV",
+            "website": "https://imov.network/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/yudiz-solution-gold-sponsor.png",
+            "partnerName": "Yudiz Solutions",
+            "website": "https://www.yudiz.com/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/babs-logo-sponsor.png",
+            "partnerName": "BABs",
+            "website": "https://babs.xyz"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/gee-test-gold-sponsor.png",
+            "partnerName": "Wuhan Jiyi Network Technology",
+            "website": "https://www.geetest.com/en/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/ABX-gold-sponsor.png",
+            "partnerName": "ABX.io",
+            "website": "https://abx.io"
+        }
+    ],
+    "SilverSponsor": [
+        {
+            "partnerImage": "/assests/media/sponsors/ChaiDEX Logo.png",
+            "partnerName": "ChaiDex",
+            "website": "https://www.chaidex.com/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/start-biz-global.png",
+            "partnerName": "StartBiz Global",
+            "website": "https://www.startbizglobal.com/"
+        },
+        {
+            "partnerImage": "/assests/media/sponsors/tinytrader.png",
+            "partnerName": "TinyTrader",
+            "website": "http://tinytrader.com/"
+        },
+        
+        {
+            "partnerImage": "/assests/media/sponsors/super-vet-silver.png",
+            "partnerName": "Super Vet",
+            "website": "https://www.supervet.io/"
+        }
+    ],
+    "CommunityPartners": [
+        {
+            "partnerImage": "/assests/media/media-community-partners/solverse.png",
+            "partnerName": "Solverse Digital",
+            "website": "https://solversedigital.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/ama-groups.png",
+            "partnerName": "AMA Groups",
+            "website": "https://www.amagroups.pro/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/bitcoin-malasiya-cpartner.png",
+            "partnerName": "Bitcoin Malaysia",
+            "website": "https://www.facebook.com/groups/BitcoinMalaysia"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/bitnning-cpartner.png",
+            "partnerName": "Bitinning",
+            "website": "https://www.bitinning.com"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/blockchain-cpartner.png",
+            "partnerName": "Blockchain Network PH",
+            "website": "https://blockchainnetworkph.com"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/crypto-revolution-cpartner.png",
+            "partnerName": "Crypto Revolution Master's",
+            "website": "https://twitter.com/revolut20?t=rMOoeiRW1g-8cA4hfoRBew_s=09"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/impact-protocol-cpartner.png",
+            "partnerName": "Impact Protocol",
+            "website": "https://impactprotocol.network"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/krypto-grenny.png",
+            "partnerName": "Krypto Granny",
+            "website": "https://www.kryptogranny.com"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/nfty-dreams-cpartner.png",
+            "partnerName": "Nfty Dreams",
+            "website": "https://nftydreams.com"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/off-chain-cpartner.png",
+            "partnerName": "Offchain Global",
+            "website": "https://offchain.social"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/shardeum-cpartner.png",
+            "partnerName": "SHARDEUM",
+            "website": "https://shardeum.org"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/the-web3-ocean-cpartner.png",
+            "partnerName": "The Web3 Ocean",
+            "website": "https://podcasts.apple.com/in/podcast/the-web3-ocean/id1624945224"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/token-insight-cpartner.png",
+            "partnerName": "Tokeninsight",
+            "website": "https://tokeninsight.com"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/triple-c-global-cpartner.png",
+            "partnerName": "Triple C Global",
+            "website": "https://instagram.com/triplecglobal?igshid=YmMyMTA2M2Y="
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/truts-cpartner.png",
+            "partnerName": "Truts",
+            "website": "https://truts.xyz"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/web3-round-table.png",
+            "partnerName": "Web3 Rountable",
+            "website": "#"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/ylide-cpartner.png",
+            "partnerName": "Ylide",
+            "website": "https://ylide.io"
+        }
+    ],
+    "MediaPartners": [
+        {
+            "partnerImage": "/assests/media/media-community-partners/cointelegraph-media.png",
+            "partnerName": "COIN TELEGRAPH",
+            "website": "http://cointelegraph.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/LOGO LUNAPR.png",
+            "partnerName": "LUNA PR",
+            "website": "https://www.lunapr.io/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/bz-media-partner.png",
+            "partnerName": "Benzinga",
+            "website": "https://www.benzinga.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/bitcoininsider1.png",
+            "partnerName": "Bitcoin Insider",
+            "website": "https://www.bitcoininsider.org/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/coin-edition-media.png",
+            "partnerName": "Coin Edition",
+            "website": "https://coinedition.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/cc-coin-codex.png",
+            "partnerName": "CoinCodex",
+            "website": "https://coincodex.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/Cryptoniteuae black transparent BG.png",
+            "partnerName": "Cryptonite",
+            "website": "https://www.cryptonite.ae/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/nft-design-awards.png",
+            "partnerName": "NFT Design Awards",
+            "website": "https://nftdesignawards.io/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/dxtalks1.png",
+            "partnerName": "DX Talks",
+            "website": "http://www.dxtalks.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/coinpedia1.png",
+            "partnerName": "Coin Pedia",
+            "website": "https://coinpedia.org/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/CryptoNewSZ1.png",
+            "partnerName": "Crypto NewsZ",
+            "website": "https://www.cryptonewsz.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/investor-bites-logo.png",
+            "partnerName": "Investor Bites",
+            "website": "https://investorbites.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/cryptopolitan-logo.png",
+            "partnerName": "Cryptopolitan",
+            "website": "https://cryptopolitan.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/the-castern-herald.png",
+            "partnerName": "The Eastern Herald",
+            "website": "https://www.easternherald.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/nft-news-today.png",
+            "partnerName": "NFT News Today",
+            "website": "https://nftnewstoday.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/the-crypto-news.png",
+            "partnerName": "TheNewsCrypto",
+            "website": "https://thenewscrypto.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/coin-gape-media-partner.png",
+            "partnerName": "CoinGape",
+            "website": "https://coingape.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/coinspeaker-logo.png",
+            "partnerName": "Coinspeaker",
+            "website": "http://www.coinspeaker.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/the-cryptonomics.png",
+            "partnerName": "The Cryptonomist",
+            "website": "https://en.cryptonomist.ch/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/coin-capture-logo.png",
+            "partnerName": "Coinscapture",
+            "website": "https://coinscapture.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/today-media-partner.png",
+            "partnerName": "U.Today",
+            "website": "https://u.today/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/ico_holder_media_partner.png",
+            "partnerName": "Icoholder",
+            "website": "https://icoholder.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/crypto-tale-media.png",
+            "partnerName": "CryptoTale",
+            "website": "https://cryptotale.org/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/clodia-io-logo.png",
+            "partnerName": "Clodia Marketing/Growth",
+            "website": "https://clodia.io"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/coinaute-media.png",
+            "partnerName": "COINAUTE",
+            "website": "https://coinaute.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/coin-bold-media.png",
+            "partnerName": "COINBOLD",
+            "website": "https://coinbold.io/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/crypto-news-media.png",
+            "partnerName": "CRYPTO NEWS",
+            "website": "https://cryptonews.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/crypto-browser-media.png",
+            "partnerName": "Crypto Browser",
+            "website": "https://cryptobrowser.io/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/embassy-bitcoin-media2.png",
+            "partnerName": "EMBASSY OF BITCOIN",
+            "website": "https://www.embassyofbitcoin.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/FFT Logo.png",
+            "partnerName": "Fi Freedom Today",
+            "website": "https://fifreedomtoday.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/kanal-coin-media.png",
+            "partnerName": "Kanal Coin",
+            "website": "https://www.kanalcoin.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/crypto-news-point.png",
+            "partnerName": "CryptoNewsPoint",
+            "website": "http://cryptonewspoint.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/web3-assam.png",
+            "partnerName": "Web3Assam",
+            "website": "https://web3assam.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/crypto-adviser-logo-media.png",
+            "partnerName": "The Crypto Adviser",
+            "website": "https://thecryptoadviser.co.uk/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/crypto-student-logo.png",
+            "partnerName": "Cryptostudent.io",
+            "website": "https://cryptostudent.io/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/crypto-runner-media-partner.png",
+            "partnerName": "CryptoRunner",
+            "website": "https://cryptorunner.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/crypto-news-logo.png",
+            "partnerName": "Crypto.news",
+            "website": "https://www.crypto.news/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/coinlive-media.png",
+            "partnerName": "COINLIVE",
+            "website": "https://www.coinlive.com/news-detail/25704"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/devdicourse-logo.png",
+            "partnerName": "Devdiscourse",
+            "website": "https://www.devdiscourse.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/digital-notice.png",
+            "partnerName": "Digital Notice",
+            "website": "https://www.digitalnotice.in/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/droom-droom.png",
+            "partnerName": "Droom Droom",
+            "website": "http://droomdroom.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/industry-events-media.png",
+            "partnerName": "Industry Events",
+            "website": "https://www.industryevents.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/crypto-token-media.png",
+            "partnerName": "CRYPTOKEN MEDIA",
+            "website": "https://cryptoken.media/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/ultramining-media.png",
+            "partnerName": "ULTRAMINING",
+            "website": "https://ultramining.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/banks-daily-media.png",
+            "partnerName": "Banks Daily",
+            "website": "https://banksdaily.com/events/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/metanews-media.png",
+            "partnerName": "MetaNews",
+            "website": "https://metanews.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/bit-media-logo.png",
+            "partnerName": "BITMEDIA",
+            "website": "https://bitmedia.io/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/trandingbeats.png",
+            "partnerName": "Tranding Beasts",
+            "website": "http://tradingbeasts.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/metaverse-post.png",
+            "partnerName": "METAVERSE POST",
+            "website": "https://mpost.io/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/the-coin-republic.png",
+            "partnerName": "THE COIN REPUBLIC",
+            "website": "https://www.thecoinrepublic.com/?pl"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/bigcoin-media.png",
+            "partnerName": "BIGCOIN",
+            "website": "https://bigcoinvietnam.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/the-finance-world-media-partnr.png",
+            "partnerName": "The Finance World",
+            "website": "http://www.thefinanceworld.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/blockspot-media.png",
+            "partnerName": "Blockspot.io",
+            "website": "https://blockspot.io/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/acnn-news-media.png",
+            "partnerName": "ACN Newswire",
+            "website": "https://www.acnnewswire.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/ktro-media.png",
+            "partnerName": "KTRO MEDIA",
+            "website": "https://ktromedia.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/DSRPTD-Blog-WB-Logo.png",
+            "partnerName": "DSRPTD",
+            "website": "https://www.dsrptd.net/blog"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/bitcoin-garden-media.png",
+            "partnerName": "Bitcoin Garden",
+            "website": "https://bitcoingarden.org/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/bitcoin-world-media.png",
+            "partnerName": "Bitcoin World",
+            "website": "https://bitcoinworld.co.in/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/tmp-media-partner.png",
+            "partnerName": "THE MARKET PERIODICAL",
+            "website": "https://themarketperiodical.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/coin-voice-media.png",
+            "partnerName": "CoinVoice",
+            "website": "https://coinvoice.net/en"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/web3ly-media-partner.png",
+            "partnerName": "Web3ly",
+            "website": "https://web3ly.net/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/fire-hustle-media.png",
+            "partnerName": "FireHustle",
+            "website": "http://www.firehustle.net/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/bitcourierlogo.png",
+            "partnerName": "BITCOURIER",
+            "website": "https://bitcourier.co.uk/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/ZEX-PR-media.png",
+            "partnerName": "ZEX PR WIRE",
+            "website": "https://www.zexprwire.com"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/startup-news.png",
+            "partnerName": "Startup News",
+            "website": "https://startupnews.fyi/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/BloggingEclipse-Logo-media.png",
+            "partnerName": "Blogging Eclipse",
+            "website": "https://bloggingeclipse.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/blocktides.png",
+            "partnerName": "Block Tides",
+            "website": "https://blocktides.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/crtptonodes-media.png",
+            "partnerName": "Cryptodnes",
+            "website": "https://cryptodnes.bg/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/coinspress-media.png",
+            "partnerName": "Coinspress",
+            "website": "https://coinspress.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/boost-gio-media.png",
+            "partnerName": "BOOST GIO",
+            "website": "https://coachboostgio.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/TB Logo Large (png).png",
+            "partnerName": "Traders Brawl",
+            "website": "http://www.tradersbrawl.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/Coin Gabbar Logo.png",
+            "partnerName": "Coin Gabbar",
+            "website": "https://www.coingabbar.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/fmm-logo-media.png",
+            "partnerName": "Financial Markets Media",
+            "website": "https://www.financialmarkets.media/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/fxmag-media-partner.png",
+            "partnerName": "FXMAG",
+            "website": "https://www.fxmag.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/geek-metaverse.png",
+            "partnerName": "Geek Metaverse",
+            "website": "https://www.geekmetaverse.com/the-best-web3-conferences-to-attend-in-2023/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/iblock-capital-media.png",
+            "partnerName": "iBlock Capital",
+            "website": "https://www.iblock.capital/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/ai-time-journal-media.png",
+            "partnerName": "AI TIME JOURNAL",
+            "website": "https://www.aitimejournal.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/alhuda-media-partner.png",
+            "partnerName": "ACIBE",
+            "website": "http://www.alhudacibe.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/asia-token-find-logo.png",
+            "partnerName": "Asia Token Fund",
+            "website": "https://asiatokenfund.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/blockcast-logo.png",
+            "partnerName": "Blockcast",
+            "website": "https://blockcast.cc/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/blocksol-logo.png",
+            "partnerName": "Block Sol",
+            "website": "https://block-sol.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/micky-logo.png",
+            "partnerName": "Mickey",
+            "website": "https://micky.com.au/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/mid-east-information-logo.png",
+            "partnerName": "Mid East Information",
+            "website": "https://mid-east.info/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/tcu-media-partner.png",
+            "partnerName": "The Crypto Updates",
+            "website": "https://www.thecryptoupdates.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/the-block-pedia-media-partner.png",
+            "partnerName": "The Blockopedia",
+            "website": "https://theblockopedia.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/cst2-media-partner.png",
+            "partnerName": "Coinstelegram",
+            "website": "https://coinstelegram.com/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/CCU_logo.png",
+            "partnerName": "CoinCheckup",
+            "website": "https://coincheckup.com/blog/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/bitcoin news.png",
+            "partnerName": "BITCOIN NEWS",
+            "website": "https://www.bitcoinnews.ch/"
+        },
+        {
+            "partnerImage": "/assests/media/media-community-partners/uae-247-media.png",
+            "partnerName": "UAE News 247",
+            "website": "https://www.uaenews247.com"
+        }
+    ]
+}
